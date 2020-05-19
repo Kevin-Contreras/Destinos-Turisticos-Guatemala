@@ -1,0 +1,178 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header {
+	width: 100%;
+	overflow: hidden;
+	background: #799162;
+	margin-bottom: solid 200px;
+	position: fixed;
+}
+.wrapper {
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+header h1{
+	color:#fff;
+	font-size: 27px;
+	line-height: 200px;
+	float: left;
+}
+header nav {
+	float: right;
+	line-height: 200px;
+}
+header nav a {
+	display:inline-block;
+	color: #fff;
+	text-decoration: none;
+	padding: 10px 20px;
+	line-height: normal;
+	font-size: 25px;
+	font-weight: bold;
+border-radius: 50px;
+	-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+}
+header nav a:hover {
+	background: #f56f3a;
+	
+}
+
+
+.primero  {
+	padding-top: 235px;
+	text-align: center;
+	background: #363834;
+
+
+
+	
+}
+.primero img {
+	width: 30%;
+	border-radius: 100%
+
+
+
+}
+.primero h2{
+	padding: 30px;
+	font-size: 40px;
+	
+}
+.primero article{
+	padding: 30px;
+	font-size:20px;
+	
+}
+
+
+
+
+.segundo  {
+	padding-top: 10px;
+	justify-content: center;
+	background: #686d62;
+
+
+
+	
+}
+.segundo img {
+	width: 30%;
+	border-radius: 100%;
+	margin-left:35% ;
+
+
+}
+.segundo h2{
+	padding: 30px;
+	font-size: 40px;
+	text-align: center;
+}
+.segundo article{
+	padding: 30px;
+	font-size:20px;
+	text-align: center;
+}
+.tercero  {
+	padding-top: 10px;
+	text-align: center;
+	background: #a2a89c;
+
+
+
+	
+}
+.tercero img {
+	width: 30%;
+	border-radius: 100%
+
+
+
+}
+.tercero h2{
+	padding: 30px;
+	font-size: 40px;
+}
+.tercero article{
+	padding: 30px;
+	font-size:20px;
+}
+
+.cuarto  {
+	padding-top: 10px;
+	text-align: center;
+	background: #d9e0d2;
+
+
+
+	
+}
+.cuarto img {
+	width: 30%;
+	border-radius: 100%
+
+
+
+}
+.cuarto h2{
+	padding: 30px;
+	font-size: 40px;
+}
+.cuarto article{
+	padding: 30px;
+	font-size:20px;
+}
+
+.quinto  {
+	padding-top: 10px;
+	text-align: center;
+	background: #fff;
+
+
+
+	
+}
+.quinto img {
+	width: 30%;
+	border-radius: 100%
+
+
+
+}
+.quinto h2{
+	padding: 30px;
+	font-size: 40px;
+}
+.quinto article{
+	padding: 30px;
+	font-size:20px;
+}
